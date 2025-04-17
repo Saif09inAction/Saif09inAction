@@ -3,7 +3,6 @@
 - 🌱 I’m currently pursuing a B.Tech in Computer Science Engineering.
 - 💞️ I’m looking to collaborate on projects that can help me grow and learn new skills.
 - 📫 You can reach me at: saifsalmani224@gmail.com.
-- 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love experimenting with new recipes and exploring tech innovations! 
 
 <!---
